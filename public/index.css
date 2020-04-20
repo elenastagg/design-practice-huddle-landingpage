@@ -30,7 +30,7 @@ main {
 .title {
   font-family: "Poppins", sans-serif;
   font-size: 24px;
-  font-weight: 400;
+  font-weight: 500;
   padding: 50px 50px 0px 50px;
 }
 
@@ -60,7 +60,7 @@ button {
 .icon {
   border: solid 1px;
   border-radius: 50%;
-  margin: 3px;
+  margin: 5px;
   width: 30px;
   height: 30px;
   text-align: center;
@@ -112,13 +112,13 @@ footer a {
     text-align: left;
     width: 45%;
     height: 100%;
-    padding: 180px 50px 0 60px;
+    padding: 40px 50px 0 60px;
   }
 
   .title {
-    line-height: 40px;
+    line-height: 50px;
     font-size: 38px;
-    padding: 0 0 35px 0;
+    padding: 0;
   }
 
   .main-text {
@@ -140,7 +140,7 @@ footer a {
 
   .social-logos {
     justify-content: flex-end;
-    padding-top: 140px;
+    padding-top: 190px;
     margin: 0;
   }
 
@@ -150,7 +150,7 @@ footer a {
   }
 
   i {
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 
