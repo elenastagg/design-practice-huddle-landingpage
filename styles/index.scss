@@ -17,7 +17,7 @@ body {
   align-self: flex-start;
 }
 
-.main-component {
+main {
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -94,7 +94,7 @@ footer {
     padding: 50px;
     width: 200px;
   }
-  .main-component {
+  main {
     display: flex;
     flex-direction: row;
     padding: 35px 50px 50px 50px;
@@ -134,7 +134,7 @@ footer {
   }
   .social-logos {
     justify-content: flex-end;
-    padding-top: 170px;
+    padding-top: 140px;
     margin: 0;
   }
   .icon:hover {
